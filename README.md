@@ -42,16 +42,10 @@ python pct.py -u <URL>
 ### Scanning Multiple URLs from a File
 
 ```bash
-python pct.py -u <URL>
+python pct.py -f <file>
 ```
 
-### Example
-
-```bash
-python pct.py -u <URL>
-```
-
-## Script Output
+## Output
 
 1- Results are saved in a CSV file in the reports directory with a timestamped filename (e.g., report-2023-06-22-12-34-56.csv).
 2- Logs are saved in the logs directory in a file named scan.log.
