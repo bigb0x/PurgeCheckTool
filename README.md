@@ -1,9 +1,8 @@
 # PurgeCheckTool
 
-PurgeCheckTool is a Python script designed to detects the Unauthenticated Cache Purge vulnerability in web applications. This vulnerability allows attackers to clear cached content without proper authentication, potentially leading to unauthorized data manipulation or denial of service (DoS) attacks.
-
-
 ![Banner](screens/screen.jpg)
+
+PurgeCheckTool is a Python script designed to detects the Unauthenticated Cache Purge vulnerability in web applications. This vulnerability allows attackers to clear cached content without proper authentication, potentially leading to unauthorized data manipulation or denial of service (DoS) attacks.
 
 ## Features
 
