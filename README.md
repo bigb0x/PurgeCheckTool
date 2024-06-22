@@ -11,6 +11,7 @@ PurgeCheckTool is a Python script designed to detects the Unauthenticated Cache 
 - Saves output results to a CSV file in /reports.
 - Logs messages to a log file for further analysis in /logs.
 
+## Prerequisites
 - Python 3.x
 - Required Python packages: `requests`, `urllib3`
 
